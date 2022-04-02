@@ -1,7 +1,7 @@
-I'm recently interested in using R in statistical business process
+I'm recently interested in using R in statistical business processes
 and R as a tool to make daily work efficient.
 
-I've ever developed some programs in :
+I've ever written some programs in :
 
 * R
 * Perl
