@@ -1,4 +1,14 @@
-### Hi there 👋
+I'm recently interested in using R in statistical business process
+and R as a tool to make daily work efficient.
+
+I've ever developed some programs in :
+
+* R
+* Perl
+* Visual Basic .NET & C# .NET
+* kotlin
+
+<!-- ### Hi there 👋-->
 
 <!--
 **ichiromurata/ichiromurata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
